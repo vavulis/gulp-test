@@ -1,5 +1,11 @@
-body {
-    background-color: coral;
-    margin: 0;
-    padding: 0;
-}
+@import "layout/_normalize.scss";
+@import "layout/_fonts.scss";
+@import "layout/_font-awesome.scss";
+@import "layout/_adjustment.scss";
+@import "sections/_about.scss";
+@import "sections/_career.scss";
+@import "sections/_content.scss";
+@import "sections/_footer.scss";
+@import "sections/_header.scss";
+@import "sections/_portfolio.scss";
+@import "sections/_sidebar.scss";
